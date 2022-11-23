@@ -6,7 +6,7 @@
   "env": {
     "APIKEY": {
       "description": "Youtube API V3 KEY",
-      "value": "AIzaSyDOy40AKnOUvotuyMJ8Fk9guYbecB3ZUXo"
+      "value": "AIzaSyDqsYR_FtRm8M5mBeNpd-ziqxxp0wtBDLA"
     },
     "PROJECT_ID": {
       "description": "PROJECT ID",
